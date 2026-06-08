@@ -1,0 +1,22 @@
+body{
+  background: black;
+  text-align: center;
+}
+
+div{
+  position: relative;
+  top: 17rem;
+  border: solid 5px darkgrey;
+  padding-top: 10px;
+  border-radius:50px;
+  background: lightgrey;
+}
+
+button{
+  padding: 5px;
+  border-radius: 8px;
+  border-width: 3px;
+  color: white;
+  background: darkgrey;
+  font-weight: bolder;
+}

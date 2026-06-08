@@ -1,0 +1,23 @@
+body{
+  background: pink;
+  text-align: center;
+  
+}
+
+div{
+  position: relative;
+  top: 17rem;
+  border: solid 5px yellow;
+  padding-top: 10px;
+  border-radius:50px;
+  background: limegreen;
+}
+
+button{
+  padding: 5px;
+  border-radius: 8px;
+  border-width: 3px;
+  font-weight: bolder;
+  background: red;
+  color:darkblue ;
+}

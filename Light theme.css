@@ -1,0 +1,20 @@
+body{
+  background: white;
+  text-align: center;
+}
+
+div{
+  position: relative;
+  top: 17rem;
+  border: solid 5px lightgrey;
+  padding-top: 10px;
+  border-radius:50px;
+  background: darkgrey;
+}
+
+button{
+  padding: 5px;
+  border-radius: 8px;
+  border-width: 3px;
+  font-weight: bolder;
+}
