@@ -2,7 +2,7 @@
 
 function ctheme() {
   let linkSelector=document.getElementById("link");
-linkSelector.href = "CrazyTheme.css"
+linkSelector.href = "CrazyTheme.css";
 }
 
 function ltheme() {
